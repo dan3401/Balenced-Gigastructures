@@ -1,0 +1,70 @@
+Megas
+    Alderson disk scale as 2 tech tiers above ring world.
+        Stage 1 5k from 20k influence increased to 600
+        stage 2 40k from 150k 
+        stage 3s 40k from 150k
+
+        districts
+
+        city
+            base houseing 350 (from 300)
+            base jobs enforcer 20 (from 60)
+
+            bonuses from special districts type (e.g ecu)
+                houseing 150
+                clerk jobs 50
+        hive (double that of a hive work)
+            base housing 240 (from 300)
+            maintenance drone 120 (from 216)
+            synapse drone 80  (from 60 patrol drone)
+
+            bonuses from special districts type (e.g ecu)
+                50% bonus (from 100%)
+        nexus (double that of a machine world)
+            base housing 200 (from 300)
+            maintenance drone 60 (from 180)
+            patrol drones 20 (from 60)
+            technician drone 30 (from 60)
+
+        industrial
+            housing 100 (from 120) 
+            CG/ alloys jobs 50,50 (from 60,60)
+        generator
+            houseing 100 (from 120)
+            technician 100 (from 180)
+        commercial
+            housing 100 (from 120)
+            merchant 20 (from 40)
+            clerk 60 (from 80)
+        mining
+            housing 100 (from 120)
+            miners 100 (from 100)
+            bonuses from special districts type (e.g ecu)
+                50% bonus (from 100%)
+        science
+            housing 100 (from 120)
+            researcher 100 (from 120)
+        farming
+            housing 100 (from 120)
+            farmers 100 from (120)
+        admin
+            housing 100 (from 120)
+            bureaucrat 100 (from 100)
+        CG
+            housing 100 (from 120)
+            atrisan 100 (from 180)
+        alloys 
+            housing 100 (from 120)
+            alloys 100 (from 180)
+        leisure
+            housing 100 (from 120)
+            entertainer 60 (from 90)
+        pop_machine_assembly
+            replicators 4 (from 5)
+        pop_bio_assembly
+            spawning drone 4 (from 5)
+
+Origins
+    ring traits
+        no longers get 40% hab everywhere
+        except for the flat world where its 30%
