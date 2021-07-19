@@ -68,3 +68,6 @@ Origins
     ring traits
         no longers get 40% hab everywhere
         except for the flat world where its 30%
+    alderson disk
+        armies, double the power
+        alderson blockers that reduce distrcit also reduce resources from jobs
