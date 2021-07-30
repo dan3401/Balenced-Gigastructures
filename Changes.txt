@@ -71,3 +71,10 @@ Origins
     alderson disk
         armies, double the power
         alderson blockers that reduce distrcit also reduce resources from jobs
+
+Technologies
+    no reaptable megastructure build speed (snowballs too hard)
+
+Achievments
+    all knowing
+        now give happines as research speed allow tech to snowball far too fast
